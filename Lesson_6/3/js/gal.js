@@ -1,6 +1,4 @@
 const mas = ["./img/1.jpg", "./img/2.jpg", "./img/3.jpg", "./img/4.jpg", "./img/5.jpg"]
-// const mas = [1, 2, 3, 4, 5]
-// obj.src = `./img/${to + 1}.jpg`
 let to = -1;
 
 function right_arrow() // Открытие следующей картинки
